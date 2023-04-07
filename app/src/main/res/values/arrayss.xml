@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "cartype">
+        <item>아반떼</item>
+        <item>소나타</item>
+        <item>그랜져</item>
+        <item>제네시스</item>
+    </string-array>
+
+    <string-array name = "license_numtype">
+        <item>1종</item>
+        <item>2종</item>
+    </string-array>
+
+    <string-array name = "license_1type">
+        <item>원동기</item>
+        <item>소형</item>
+        <item>보통</item>
+    </string-array>
+
+    <string-array name = "license_2type">
+        <item>소형</item>
+        <item>중형</item>
+        <item>대형</item>
+    </string-array>
+</resources>
